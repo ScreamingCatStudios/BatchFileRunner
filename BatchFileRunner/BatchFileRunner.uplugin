@@ -1,0 +1,24 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "Batch File Runner",
+    "Description": "Run batch files at runtime and return process information",
+    "Category": "Utilities",
+    "CreatedBy": "ScreamingCatStudios",
+    "CreatedByURL": "https://screamingcatstudios.com",
+    "DocsURL": "",
+    "MarketplaceURL": "",
+    "SupportURL": "",
+    "CanContainContent": false,
+    "IsBetaVersion": false,
+    "Installed": false,
+    "Modules": [
+        {
+            "Name": "BatchFileRunner",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+            "WhitelistPlatforms": ["Win64"]
+        }
+    ]
+}
